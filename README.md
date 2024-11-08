@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/c501c514-51cb-4ab3-bb3c-65767e8be68f.svg)](https://wakatime.com/@c501c514-51cb-4ab3-bb3c-65767e8be68f)
+[![wakatime](https://wakatime.com/badge/user/c501c514-51cb-4ab3-bb3c-65767e8be68f.svg?style=for-the-badge)](https://wakatime.com/@c501c514-51cb-4ab3-bb3c-65767e8be68f)
 
 - 🔭 I’m currently working on [InstaStore](https://github.com/Mohammad-Momeni/InstaStore)
 - 💬 Ask me about Python and Web Scraping
